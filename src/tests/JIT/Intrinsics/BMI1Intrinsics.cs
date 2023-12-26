@@ -5,7 +5,7 @@ namespace BMI1Intrinsics
 {
     internal class Program
     {
-        private static int _errorCode = 100;
+        private static int _errorCode = 101;
 
         static int Main()
         {

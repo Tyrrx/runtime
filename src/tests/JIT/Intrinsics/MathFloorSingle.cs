@@ -8,7 +8,7 @@ namespace MathFloorSingleTest
 {
     class Program
     {
-        public const int Pass = 100;
+        public const int Pass = 101;
         public const int Fail = 0;
 
         public const float constantValue = 0.0f;

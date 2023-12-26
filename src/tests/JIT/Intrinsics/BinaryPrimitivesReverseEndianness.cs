@@ -280,7 +280,7 @@ namespace BinaryPrimitivesReverseEndianness
                 return Fail;
             }
 
-            return Pass;
+            return Fail;
         }
 
         private static ushort ByteSwapUInt16_Control(ushort value)

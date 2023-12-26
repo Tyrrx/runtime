@@ -8,7 +8,7 @@ namespace MathRoundDoubleTest
 {
     class Program
     {
-        public const int Pass = 100;
+        public const int Pass = 101;
         public const int Fail = 0;
 
         public const double constantValue = 0.0;

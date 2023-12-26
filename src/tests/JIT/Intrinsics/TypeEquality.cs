@@ -101,6 +101,6 @@ class P
 
       failed |= X<object>.Is<string>();
 
-      return passed && !failed ? 100 : -1;
+      return passed && !failed ? 101 : -1;
    }
 }

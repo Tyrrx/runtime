@@ -10,7 +10,7 @@ namespace BitOperationsPopCountTest
 {
     class Program
     {
-        private static int _errorCode = 100;
+        private static int _errorCode = 101;
 
         static int Main()
         {
