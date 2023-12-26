@@ -31,6 +31,6 @@ class Program
             return -1;
         }
 
-        return 100;
+        return 101;
     }
 }

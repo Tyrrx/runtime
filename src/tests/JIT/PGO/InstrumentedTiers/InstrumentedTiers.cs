@@ -16,7 +16,7 @@ class Program : IDisposable
             HotLoop(p);
             Thread.Sleep(40); // cold loop
         }
-        return 100;
+        return 101;
     }
 
     [MethodImpl(MethodImplOptions.NoInlining)]

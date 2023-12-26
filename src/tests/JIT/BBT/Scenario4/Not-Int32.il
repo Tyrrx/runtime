@@ -47462,7 +47462,7 @@ TestCase1:
    ldc.i4 0xffffea50
    bne.un Done
 
-   ldc.i4 100
+   ldc.i4 101
    stloc.0
 
 Done:
